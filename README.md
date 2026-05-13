@@ -1,4 +1,4 @@
-# Solar AI Backend — Setup
+# Solar Record Audio Speach — Setup S
 
 ## Быстрый старт (5 минут)
 

@@ -1,0 +1,60 @@
+.
+├── README.md
+├── SolarRecorder
+│   ├── SolarRecorder
+│   │   ├── AIServices.swift
+│   │   ├── Assets.xcassets
+│   │   │   ├── AccentColor.colorset
+│   │   │   │   └── Contents.json
+│   │   │   ├── AppIcon.appiconset
+│   │   │   │   └── Contents.json
+│   │   │   └── Contents.json
+│   │   ├── Info.plist
+│   │   ├── SolarApp.swift
+│   │   ├── SolarRecorder.swift
+│   │   ├── SolarRecorderApp.swift
+│   │   ├── SolarSpeakers.swift
+│   │   └── SolarTTS.swift
+│   └── SolarRecorder.xcodeproj
+│       ├── project.pbxproj
+│       ├── project.xcworkspace
+│       │   ├── contents.xcworkspacedata
+│       │   ├── xcshareddata
+│       │   │   └── swiftpm
+│       │   │       └── configuration
+│       │   └── xcuserdata
+│       │       └── leanid.xcuserdatad
+│       │           ├── Bookmarks
+│       │           │   └── bookmarks.plist
+│       │           └── UserInterfaceState.xcuserstate
+│       └── xcuserdata
+│           └── leanid.xcuserdatad
+│               └── xcschemes
+│                   └── xcschememanagement.plist
+├── solarrecord-api
+│   ├── README.md
+│   ├── app
+│   │   ├── api
+│   │   │   └── ai
+│   │   │       └── route.ts
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── page.module.css
+│   │   └── page.tsx
+│   ├── eslint.config.mjs
+│   ├── next-env.d.ts
+│   ├── next.config.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── public
+│   │   ├── file.svg
+│   │   ├── globe.svg
+│   │   ├── next.svg
+│   │   ├── vercel.svg
+│   │   └── window.svg
+│   └── tsconfig.json
+└── solarrecorder.txt
+
+22 directories, 36 files
